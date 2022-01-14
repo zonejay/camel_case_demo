@@ -14,24 +14,6 @@
                 :auto-Height="true"
             />
         </div>
-        <textarea
-            bindblur="eh"
-            bindconfirm="eh"
-            bindfocus="eh"
-            bindinput="eh"
-            bindkeyboardheightchange="eh"
-            bindlinechange="eh"
-            bindtap="eh"
-            class="h5-textarea"
-            confirm-type="return"
-            cursor="-1"
-            id="_n_13"
-            maxlength="140"
-            placeholder="测试textarea"
-            placeholder-class="textarea-placeholder"
-            selection-end="-1"
-            selection-start="-1"
-        ></textarea>
     </view>
 </template>
 
